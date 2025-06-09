@@ -35,7 +35,7 @@ To assess the functionality, usability, and reliability of the OrangeHRM web-bas
 
 ## Tools Used:
 - Microsoft Excel
-- ShareX
+- ScreenPal
 - GitHub
 
 ## Test Deliverables:
