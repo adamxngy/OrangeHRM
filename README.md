@@ -18,9 +18,8 @@ The goal is to showcase end-to-end manual testing skills through structured docu
 ## Project Scope
 
 - ✅ Create a test plan
-- 🔄 Write structured test cases (positive & negative)
+- 🔄 Write structured test cases
 - 🔄 Document bugs with reproducible steps
 - 🔄 Include screenshots/video evidence
-- ✅ Maintain clean GitHub documentation
 
-> Note: Test cases and bug reports are currently in progress. Approximately 15% of test cases have been written and 15% have been executed as of 2025.06.11.
+> Note: Test cases and bug reports are currently in progress. Approximately 66% of test cases have been written and 66% have been executed as of 2025.06.11.
